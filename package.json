@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Stylelint with opinionated changes for a better development experience.",
   "repository": "git@github.com:AuroraDigital/stylelint-config-aurora.git",
-  "author": "AURORA Digital <hello@auroradigit.al>",
+  "keywords": [
+    "stylelint",
+    "lint",
+    "scss",
+    "css",
+    "code quality",
+    "style guide",
+    "auroradigital"
+  ],
+  "author": "AURORA Digital <hello@auroradigit.al> (auroradigit.al)",
   "license": "MIT",
   "private": false,
   "dependencies": {
