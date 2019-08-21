@@ -1,0 +1,12 @@
+{
+  "name": "stylelint-config-aurora",
+  "version": "1.0.0",
+  "description": "Stylelint with opinionated changes for a better development experience.",
+  "repository": "git@github.com:AuroraDigital/stylelint-config-aurora.git",
+  "author": "AURORA Digital <hello@auroradigit.al>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "stylelint-config-standard": "^18.3.0"
+  }
+}
