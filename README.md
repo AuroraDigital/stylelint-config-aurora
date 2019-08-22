@@ -25,6 +25,6 @@ npm install --save-dev stylelint-config-aurora
 **Create or edit `.stylelintrc.json`**:
 ```
 {
-  "extends": "stylelint-config-aurora
+  "extends": "stylelint-config-aurora"
 }
 ```
