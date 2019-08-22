@@ -13,6 +13,8 @@
     "auroradigital"
   ],
   "author": "AURORA Digital <hello@auroradigit.al> (auroradigit.al)",
+  "homepage": "https://github.com/AuroraDigital/stylelint-config-aurora/#readme",
+  "bugs": "https://github.com/AuroraDigital/stylelint-config-aurora/issues",
   "license": "MIT",
   "private": false,
   "dependencies": {
