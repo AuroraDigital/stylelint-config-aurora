@@ -8,7 +8,7 @@ Stylelint, but with opinionated changes.
 
 ## Changed rules
 
- - Allow @tailwind at-rule
+ - Allow Tailwind CSS at-rules
 
 
 ## Usage

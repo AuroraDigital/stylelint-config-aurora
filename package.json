@@ -1,11 +1,12 @@
 {
   "name": "stylelint-config-aurora",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Stylelint with opinionated changes for a better development experience.",
   "repository": "git@github.com:AuroraDigital/stylelint-config-aurora.git",
   "keywords": [
     "stylelint",
     "lint",
+    "tailwind",
     "scss",
     "css",
     "code quality",
