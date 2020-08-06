@@ -15,11 +15,11 @@ Stylelint, but with opinionated changes.
 
 **Install:**
 ```
-yarn add --dev stylelint-config-aurora
+yarn add --dev stylelint-config-aurora stylelint
 ```
 or
 ```
-npm install --save-dev stylelint-config-aurora
+npm install --save-dev stylelint-config-aurora stylelint
 ```
 
 **Create or edit `.stylelintrc.json`**:
